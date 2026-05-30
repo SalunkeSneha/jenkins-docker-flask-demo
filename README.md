@@ -110,7 +110,7 @@ pipeline {
 Replace:
 
 ```groovy
-YOUR_GITHUB_REPO_LINK
+https://github.com/SalunkeSneha?tab=repositories
 ```
 
 with your actual GitHub repository URL.
@@ -118,7 +118,7 @@ with your actual GitHub repository URL.
 Example:
 
 ```groovy
-git 'https://github.com/yourusername/jenkins-docker-flask-demo.git'
+git 'https://github.com/SalunkeSneha/jenkins-docker-flask-demo.git'
 ```
 
 ---
