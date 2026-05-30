@@ -85,7 +85,7 @@ pipeline {
 
         stage('Clone Repository') {
             steps {
-                git 'YOUR_GITHUB_REPO_LINK'
+                git 'https://github.com/SalunkeSneha/jenkins-docker-flask-demo'
             }
         }
 
